@@ -1168,7 +1168,7 @@ section{
     width:300px;
    }
 } */
-@media(max-width:1300px){
+@media(max-width:1200px){
    #menu-icon{
     display: block;
     color:white;
